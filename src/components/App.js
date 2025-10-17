@@ -1,6 +1,7 @@
 
 import React from "react";
 import './../styles/App.css';
+import PageLayout from "./PageLayout.js"
 
 const App = () => {
   let head = "Welcome to my website"
